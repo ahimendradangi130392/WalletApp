@@ -11,7 +11,7 @@ Composer (for package management)
 #Installation Steps
 
 Clone the project repository:
-git clone <repository_url>
+git clone https://github.com/ahimendradangi130392/WalletApp.git
 cd WalletApp
 
 # Install dependencies using Composer:
