@@ -42,4 +42,4 @@ Once imported, you'll have access to the available API requests for testing.
 #Additional Assistance
 If you encounter any issues during the installation or have further questions, please feel free to reach out for assistance
 
-
+NOTE: - I Pushed the .env as well as passport key
