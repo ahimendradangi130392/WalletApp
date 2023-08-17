@@ -16,6 +16,8 @@ cd WalletApp
 
 # Install dependencies using Composer:
 composer install
+# composer require laravel/passport -W
+php artisan passport:install
 
 # Run migrations to create the database tables:
 php artisan migrate
